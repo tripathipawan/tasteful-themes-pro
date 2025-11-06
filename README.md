@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/c0e57db5-ff4c-4bc8-a6dd-4add8baa60c8
+**URL**: https://tasteful-themes-pro.lovable.app
 
 ## How can I edit this code?
 
