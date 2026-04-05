@@ -183,10 +183,6 @@ All colors MUST be HSL.
   color: hsl(var(--primary));
 }
 
-
-[class*="lovable"],
-[id*="lovable"],
-.lovable-badge,
 #lovable-badge {
   display: none !important;
 }
