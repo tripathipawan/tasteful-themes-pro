@@ -182,3 +182,11 @@ All colors MUST be HSL.
   font-weight: 600;
   color: hsl(var(--primary));
 }
+
+
+[class*="lovable"],
+[id*="lovable"],
+.lovable-badge,
+#lovable-badge {
+  display: none !important;
+}
